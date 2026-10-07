@@ -1,1 +1,2 @@
-print("Ahoj svete!")
+name = input("Zadejte svoje jmeno: ")
+print(f"Ahoj, {name}!")

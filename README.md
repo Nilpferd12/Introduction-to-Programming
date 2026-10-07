@@ -16,3 +16,7 @@
 1. Běžně používané datové typy a třídy.
 1. Analýza výstupů programu (profiling)
 
+## Spusteni programu
+Program spustite pomoci prikazu:
+`python app.py`
+nasledne zadejte sve jmeno a budte pozdraveni
